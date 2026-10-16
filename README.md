@@ -10,7 +10,7 @@ El repositorio también funciona como portafolio técnico para demostrar mi prog
 
 ## Contenido del repositorio
 
-1. Fundamentos de Python
+# Fundamentos de Python
 
 Ejercicios para desarrollar habilidades de programación y preparar datos para su análisis.
 
