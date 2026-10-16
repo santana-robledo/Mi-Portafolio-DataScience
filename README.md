@@ -167,3 +167,12 @@ Pronóstico y análisis de series temporales.
 Los notebooks están organizados principalmente de forma progresiva, desde los fundamentos de programación hasta técnicas estadísticas y modelos de aprendizaje automático.
 
 Cada práctica representa una oportunidad para reforzar conceptos, experimentar con herramientas y desarrollar un enfoque analítico para resolver problemas.
+
+## Repositorios relacionados
+
+Consulta también mi repositorio de la Maestría en Ciencias de la Robótica e Inteligencia Artificial, donde documento prácticas y proyectos de robótica, visión artificial, redes neuronales, algoritmos de optimización y aprendizaje por refuerzo.
+
+[Posgrado en Robótica e Inteligencia Artificial](https://github.com/santana-robledo/Posgrado_Robotica_e_Inteligencia_Artificial)
+
+## Autor
+Santana Robledo
