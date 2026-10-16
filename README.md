@@ -10,7 +10,7 @@ El repositorio también funciona como portafolio técnico para demostrar mi prog
 
 ## Contenido del repositorio
 
-# Fundamentos de Python
+### Fundamentos de Python
 
 Ejercicios para desarrollar habilidades de programación y preparar datos para su análisis.
 
@@ -22,7 +22,7 @@ Manejo de registros y estructuras de datos.
 
 Manipulación de datos con Pandas y NumPy.
 
-2. Análisis exploratorio de datos (EDA)
+### Análisis exploratorio de datos (EDA)
 
 Exploración de conjuntos de datos para comprender su estructura, detectar patrones e identificar posibles problemas de calidad.
 
@@ -36,7 +36,7 @@ Análisis de distribuciones y relaciones entre variables.
 
 Visualización de datos con Matplotlib y Seaborn.
 
-3. Estadística y análisis inferencial
+### Estadística y análisis inferencial
 
 Aplicación de herramientas estadísticas para analizar datos, evaluar hipótesis e interpretar resultados.
 
@@ -50,7 +50,7 @@ Intervalos de confianza y predicción.
 
 Evaluación de modelos mediante R², RMSE y otras métricas.
 
-4. Machine Learning supervisado
+### Machine Learning supervisado
 
 Modelos que aprenden relaciones a partir de datos conocidos para realizar predicciones o clasificaciones.
 
@@ -64,7 +64,7 @@ Máquinas de soporte vectorial (SVM).
 
 Evaluación y comparación de modelos predictivos.
 
-5. Machine Learning no supervisado
+### Machine Learning no supervisado
 
 Técnicas para descubrir estructuras y grupos dentro de los datos sin depender de etiquetas previamente definidas.
 
@@ -78,7 +78,7 @@ Segmentación de clientes mediante RFM.
 
 Análisis de patrones de compra con Market Basket Analysis.
 
-6. Bases de datos y SQL
+### Bases de datos y SQL
 
 Consultas y operaciones para recuperar, relacionar y analizar información almacenada en bases de datos relacionales.
 
@@ -90,7 +90,7 @@ Filtrado, agrupación y agregación de información.
 
 Aplicación de SQL al análisis de datos.
 
-7. Series temporales y pronóstico
+### Series temporales y pronóstico
 
 Análisis de datos registrados a lo largo del tiempo para identificar comportamientos históricos y desarrollar pronósticos.
 
@@ -106,35 +106,19 @@ Evaluación de predicciones mediante métricas de error.
 
 ## Herramientas y tecnologías
 
-Categoría
-
-Herramientas
-
-Lenguaje de programación
-
 Python
-
 Análisis y manipulación de datos
-
 Pandas, NumPy
-
 Visualización
-
 Matplotlib, Seaborn
-
 Machine Learning
-
 Scikit-learn
-
 Estadística y pronóstico
-
 Statsmodels
-
 Bases de datos
-
 SQL, SQLite
 
-Entorno de desarrollo
+## Entorno de desarrollo
 
 Jupyter Notebook, Git, GitHub
 
