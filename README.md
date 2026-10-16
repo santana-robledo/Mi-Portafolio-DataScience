@@ -175,4 +175,4 @@ Consulta también mi repositorio de la Maestría en Ciencias de la Robótica e I
 [Posgrado en Robótica e Inteligencia Artificial](https://github.com/santana-robledo/Posgrado_Robotica_e_Inteligencia_Artificial)
 
 ## Autor
-Santana Robledo
+**Santana Robledo**
