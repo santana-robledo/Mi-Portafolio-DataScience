@@ -107,15 +107,25 @@ Evaluación de predicciones mediante métricas de error.
 ## Herramientas y tecnologías
 
 Python
+
 Análisis y manipulación de datos
+
 Pandas, NumPy
+
 Visualización
+
 Matplotlib, Seaborn
+
 Machine Learning
+
 Scikit-learn
+
 Estadística y pronóstico
+
 Statsmodels
+
 Bases de datos
+
 SQL, SQLite
 
 ## Entorno de desarrollo
